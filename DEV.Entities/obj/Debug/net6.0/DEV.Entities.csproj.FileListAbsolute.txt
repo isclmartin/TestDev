@@ -1,0 +1,12 @@
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\DEV.Entities.csproj.AssemblyReference.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\DEV.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\DEV.Entities.AssemblyInfoInputs.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\DEV.Entities.AssemblyInfo.cs
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\DEV.Entities.csproj.CoreCompileInputs.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\bin\Debug\net6.0\DEV.Entities.deps.json
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\bin\Debug\net6.0\DEV.Entities.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\bin\Debug\net6.0\ref\DEV.Entities.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\bin\Debug\net6.0\DEV.Entities.pdb
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\DEV.Entities.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\ref\DEV.Entities.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Entities\obj\Debug\net6.0\DEV.Entities.pdb

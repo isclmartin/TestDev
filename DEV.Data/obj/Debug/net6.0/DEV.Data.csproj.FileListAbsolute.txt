@@ -1,0 +1,17 @@
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\DEV.Data.deps.json
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\DEV.Data.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\ref\DEV.Data.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\DEV.Data.pdb
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\DEV.Entities.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\DEV.Utils.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\DEV.Entities.pdb
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\bin\Debug\net6.0\DEV.Utils.pdb
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.csproj.AssemblyReference.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.AssemblyInfoInputs.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.AssemblyInfo.cs
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.csproj.CoreCompileInputs.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.csproj.CopyComplete
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\ref\DEV.Data.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Data\obj\Debug\net6.0\DEV.Data.pdb

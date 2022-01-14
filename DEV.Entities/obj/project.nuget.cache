@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/wgaq7xDRf4x0XJTY4se37ZEgeRMfTQYujZ3kpUgimGEPu1+5I+/79S+ju313RjdVEWI4/0+cekGOt8moAGBw==",
+  "success": true,
+  "projectFilePath": "C:\\Test_DEV\\PruebaDesarrolloDeSoftware\\slnTestDEV\\DEV.Entities\\DEV.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TI-DES-GTE-01\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

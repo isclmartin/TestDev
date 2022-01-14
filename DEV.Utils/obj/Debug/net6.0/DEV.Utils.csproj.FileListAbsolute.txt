@@ -1,0 +1,12 @@
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\bin\Debug\net6.0\DEV.Utils.deps.json
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\bin\Debug\net6.0\DEV.Utils.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\bin\Debug\net6.0\ref\DEV.Utils.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\bin\Debug\net6.0\DEV.Utils.pdb
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\DEV.Utils.csproj.AssemblyReference.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\DEV.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\DEV.Utils.AssemblyInfoInputs.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\DEV.Utils.AssemblyInfo.cs
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\DEV.Utils.csproj.CoreCompileInputs.cache
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\DEV.Utils.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\ref\DEV.Utils.dll
+C:\Test_DEV\PruebaDesarrolloDeSoftware\slnTestDEV\DEV.Utils\obj\Debug\net6.0\DEV.Utils.pdb
